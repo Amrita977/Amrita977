@@ -1,7 +1,7 @@
 # 👩🏻‍💻 Hi there, I'm Amrita Rajvansh!
 
 ## 🎓 Introduction
-- 🎓 Final-year B.Tech (CSE) student at **Nitra Technical Campus**, Ghaziabad.
+- 🎓 Graduated B.Tech (CSE) student at **Nitra Technical Campus**, Ghaziabad.
 - 💻 Passionate PHP Developer with hands-on experience in **Laravel**, **CodeIgniter**, and **MySQL**.
 - 🚀 Strong backend development skills with a solid grasp of MVC architecture.
 - 🌟 Creative team leader with a knack for scalable solutions and user-friendly designs.
